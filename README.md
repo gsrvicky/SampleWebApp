@@ -1,2 +1,2 @@
-# SampleWebApplication
-SampleWebApplication
+# SampleWebApp
+SampleWebApp
