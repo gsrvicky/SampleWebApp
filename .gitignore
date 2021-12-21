@@ -5,3 +5,7 @@
 /WebApplication/.vs/WebApplication
 /WebApplication/bin/
 /WebApplication/obj
+*.sqlite
+*.suo
+/.vs
+*.user
